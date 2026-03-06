@@ -1,6 +1,52 @@
 # WHYTE-PAUL-KOFI-KUMUYI_052441360112
-QuickBite Food Ordering System
-Project Description
+QuickBite Food Ordering SystemProject 2 – QuickBite
+GROUP MEMBERS         AND                  INDEX NUMBER:
+WINFRED ASANTE                            052441360056, 
+WHYTE PAUL KOFI KUMUYI                    052441360112,
+MARY GYEDU ABOAGYEWAA                     052441360125,
+MAXWELL AGYEI BOAKYE                      052441360110,
+FRIMPONG BEATRICE                         052441360231,
+NATHAN NSUE ROKA                          052441360394.
+
+Project Title
+
+QuickBite – A simple and interactive food ordering system designed to streamline ordering processes for users.
+
+Project Overview
+
+QuickBite allows users to register, log in, view available food items, and place orders seamlessly. The system incorporates a clean and responsive interface using an external CSS stylesheet to enhance user experience. The project demonstrates core concepts of web development, including session management, form handling, and basic frontend-backend integration with PHP.
+
+Features Implemented
+
+User Registration and Login: Securely create and authenticate user accounts.
+
+Dashboard: Displays available food items dynamically.
+
+Order Placement: Users can select and order food items efficiently.
+
+Logout Functionality: Ensures secure session termination.
+
+External CSS Styling: Provides a consistent and user-friendly interface across all pages.
+
+Challenges Encountered
+
+Session Management: Ensuring login sessions are handled securely and logout works reliably.
+
+Dynamic Content Display: Reflecting available food items on the dashboard dynamically.
+
+UI Consistency: Integrating external CSS for a uniform and visually appealing interface.
+
+How to Run
+
+Import the project folder into your local server (e.g., XAMPP).
+
+Open index.php in a browser to start the application.
+
+Use the registration page to create a new account or log in with existing credentials.
+
+
+
+PROJECT DESCRIPTION
 
 QuickBite is a simple web-based food ordering interface built using PHP, HTML, and CSS.
 The system demonstrates a basic user authentication flow including registration, login, dashboard access, and logout without using a database.
@@ -101,15 +147,6 @@ No password encryption
 <img width="1920" height="1008" alt="Screenshot 2026-03-06 105400" src="https://github.com/user-attachments/assets/4fb61fed-b171-42cf-905a-1e85fa803794" />
 
 <img width="1920" height="1008" alt="Screenshot 2026-03-06 105346" src="https://github.com/user-attachments/assets/5012c98b-6af1-4c6a-9987-d31457605b0c" />
-
-GROUP MEMBERS         AND                  INDEX NUMBER:
-WINFRED ASANTE                            052441360056, 
-WHYTE PAUL KOFI KUMUYI                    052441360112,
-MARY GYEDU ABOAGYEWAA                     052441360125,
-MAXWELL AGYEI BOAKYE                      052441360110,
-FRIMPONG BEATRICE                         052441360231,
-NATHAN NSUE ROKA                          052441360394.
-
 
 
 
