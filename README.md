@@ -108,7 +108,8 @@ WHYTE PAUL KOFI KUMUYI                    052441360112,
 MARY GYEDU ABOAGYEWAA                     052441360125,
 MAXWELL AGYEI BOAKYE                      052441360110,
 FRIMPONG BEATRICE                         052441360231,
-NATHAN NSUE ROKA                          052441360394,
+NATHAN NSUE ROKA                          052441360394.
+
 
 
 
