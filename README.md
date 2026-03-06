@@ -102,7 +102,7 @@ No password encryption
 
 <img width="1920" height="1008" alt="Screenshot 2026-03-06 105346" src="https://github.com/user-attachments/assets/5012c98b-6af1-4c6a-9987-d31457605b0c" />
 
-GROUP MEMBERS         AND                  INDEX NUMBER
+GROUP MEMBERS         AND                  INDEX NUMBER:
 WINFRED ASANTE                            052441360056, 
 WHYTE PAUL KOFI KUMUYI                    052441360112,
 MARY GYEDU ABOAGYEWAA                     052441360125,
