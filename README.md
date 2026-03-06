@@ -86,8 +86,6 @@ xampp/htdocs/project2/
 
 Start Apache from the control panel.
 
-Open your browser and visit:
-
 http://localhost/project2/index.html
 Limitations
 
@@ -96,5 +94,9 @@ No database integration
 User credentials are hardcoded
 
 No password encryption
+<img width="1920" height="1008" alt="Screenshot 2026-03-06 105221" src="https://github.com/user-attachments/assets/a25ae290-7cd9-4de7-85fe-a711f500605b" />
 
-Only basic session authentication is implemented
+<img width="1920" height="1008" alt="Screenshot 2026-03-06 105318" src="https://github.com/user-attachments/assets/86f31688-54bb-4236-b9c8-e9b9b9a47158" />
+
+<img width="1920" height="1008" alt="Screenshot 2026-03-06 105400" src="https://github.com/user-attachments/assets/4fb61fed-b171-42cf-905a-1e85fa803794" />
+<img width="1920" height="1008" alt="Screenshot 2026-03-06 105346" src="https://github.com/user-attachments/assets/5012c98b-6af1-4c6a-9987-d31457605b0c" />
