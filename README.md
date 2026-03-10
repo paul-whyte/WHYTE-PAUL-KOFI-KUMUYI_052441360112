@@ -1,6 +1,5 @@
 # QuickBite Food Ordering System
 
-## Project Title
 **QuickBite** – A simple and interactive food ordering system designed to streamline ordering processes for users.
 
 ## Group Members and Index Numbers
