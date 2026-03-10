@@ -1,6 +1,3 @@
-
-### README.md
-
 # QuickBite Food Ordering System
 
 ## Project Title
