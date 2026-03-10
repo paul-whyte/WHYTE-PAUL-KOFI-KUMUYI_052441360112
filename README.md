@@ -1,5 +1,3 @@
-Here is the rearranged README information into appropriate sections, without changing any of the original content.
-
 ---
 
 ### README.md
